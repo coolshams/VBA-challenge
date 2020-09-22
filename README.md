@@ -4,7 +4,7 @@ VBA challenge
 General:
 
 Hello! My homework submission is uploaded as per the instructions.
-There are three folders one for each year that have screen shots of first few rows & last few rows along with the challenge solution (this was fun!)
+There are three folders one for each year that have screen shots of first few rows & last few rows along with the challenge solution
 VBAStocks-Final.vbs is the final script that has the entire solution - challenge included.
 
 I approached the homework by revisiting the recordings (credit card checker & WellsFargo) & started writing & testing my script on an even smaller dataset (~200 rows of single worksheet) of alphabetical_testing.xlsx Once successful, I added the worsheets reference and last row to for loop, tested it on alphabetical_testing.xlsx, followed by Multiple_year_stock_data.xlsx
